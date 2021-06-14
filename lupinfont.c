@@ -18,8 +18,8 @@
 /*
 ** シングルスレッドのライブラリを使います。
 */
-#ifdef _WIN32
-#pragma comment(lib,"freetype2110ST.lib")
+#ifdef _WIN64
+#pragma comment(lib,"freetype_x64_avx.lib")
 #endif
 
 #define FONTNAME "msmincho.ttc"
