@@ -1,2 +1,0 @@
-﻿LIBCMTD.lib(initializers.obj) : warning LNK4098: defaultlib 'libcmt.lib' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
-  lupinavi2.vcxproj -> D:\privcode\lupan_tool_cui\x64\Debug\lupinavi2.exe
