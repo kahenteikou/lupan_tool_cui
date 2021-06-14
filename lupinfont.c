@@ -22,7 +22,7 @@
 #pragma comment(lib,"freetype_x64_avx.lib")
 #endif
 
-#define FONTNAME "msmincho.ttc"
+#define FONTNAME "font.ttc"
 
 
 /*

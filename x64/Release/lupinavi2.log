@@ -1,0 +1,3 @@
+﻿  lupinfont.c
+D:\privcode\lupan_tool_cui\lupinfont.c(126,5): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lupinavi2.vcxproj -> D:\privcode\lupan_tool_cui\x64\Release\lupinavi2.exe
